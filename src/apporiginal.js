@@ -3,18 +3,10 @@ import './style.css'; // Assuming your styles are in style.css
 //import './navbarStyle.css'; // Replace navbarStyle.css with the actual file name for your navbar styles
 
 function App() {
-  const toggleMenu = () => {
-    const navList = document.querySelector('nav ul');
-    navList.classList.toggle('show');
-  };
-
   return (
     <div>
       {/* Navbar */}
       <nav>
-       <div className="menu-icon" onClick={toggleMenu}>
-        <img src="menu-icon.png" alt="Menu Icon" />
-       </div>
         <img src="logo.webp" className="logo" alt="Spotify Logo" />
         <label className="sptfy">Spotify</label>
         <label className="hgh">.Highlight</label>
