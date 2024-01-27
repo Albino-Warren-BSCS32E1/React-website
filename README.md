@@ -3,10 +3,10 @@ Website Link:https://warrennsr.github.io/React-website/
 
 
 Members: 
-Albino, Warren 
+Albino, Warren.\
 Peñaflor, Jose Manuel
 
-===============================================================================================
+===============================================================================
 
 # Getting Started with Create React App
 
